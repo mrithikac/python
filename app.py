@@ -11,12 +11,8 @@ quantity= 10
 ratepercan= 1.50
 softdrink= True
 print(type(productname))
-ratepercan(type(ratepercan))
-bool 
-ratepercan: True #if it appears as float
-bool 
-ratepercan: False #if it appears in int
-print(ratepercan)
+intnumber=int(ratepercan)
+print(intnumber)
 my_variable_name = "Mrithika"
 print(my_variable_name) #this is the same as Mrithika.
 #We will display examples of Define and Global Variables
