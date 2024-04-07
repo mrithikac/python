@@ -11,8 +11,7 @@ quantity= 10
 ratepercan= 1.50
 softdrink= True
 print(type(productname))
-ratepercan(type(ratepercan))
-bool 
+bool
 ratepercan: True #if it appears as float
 bool 
 ratepercan: False #if it appears in int
